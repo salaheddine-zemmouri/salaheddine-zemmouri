@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 
 
-[![Salah Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=0SalahEddine0&count_private=true&theme=buefy&hide=prs,issues&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Salah Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=salaheddine-zemmouri&count_private=true&theme=buefy&hide=prs,issues&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

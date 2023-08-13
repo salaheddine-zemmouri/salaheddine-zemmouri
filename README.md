@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-#### My name is Salah Eddine ZEMMOURI and i am a software engineer student at ENSIAS , a leading school of computer science in Morocco 🇲🇦.
+#### My name is Salah Eddine ZEMMOURI and I am a software engineer. I graduated from ENSIAS, a leading school of computer science in Morocco 🇲🇦.
 
 #### About me : 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -🌟 Striving to become an inspiring leader and a great software engineer.
 
--💪 2022 Goals: Getting the hang of backend engineering and mastering DevOps technologies.
+-💪 2023 Goals: Getting the hang of backend engineering and mastering DevOps technologies.
 
 -📫 reach out to me: <a href="https://www.linkedin.com/in/salaheddine-zemmouri/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="25"></a>
 

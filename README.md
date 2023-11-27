@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -🌟 Striving to become an inspiring leader and a great software engineer.
 
--💪 2023 Goals: Getting the hang of backend engineering and mastering DevOps technologies.
+-💪 2024 Goals: Getting the hang of backend engineering and mastering DevOps technologies.
 
 -📫 reach out to me: <a href="https://www.linkedin.com/in/salaheddine-zemmouri/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="25"></a>
 

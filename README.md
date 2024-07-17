@@ -1,31 +1,34 @@
-## Hello there 👋
+# Hello there 👋
 
-#### My name is Salah Eddine ZEMMOURI and I am a software engineer. I graduated from ENSIAS, a leading school of computer science in Morocco 🇲🇦.
+I'm Salah Eddine ZEMMOURI, a Full Stack Cloud Engineer passionate about building robust, scalable, and efficient software solutions.
 
-#### About me : 
-<!--
-**0SalahEddine0/0SalahEddine0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🚀 Full Stack Cloud Engineer at Xayone Morocco, specializing in Java, Spring Boot, and cloud technologies.
+- 🎓 Graduate from ENSIAS, a leading computer science school in Morocco 🇲🇦.
+- 💻 Experienced in backend development, frontend frameworks, and DevOps practices.
+- ☁️ Cloud enthusiast with hands-on experience in GCP, IBM Cloud, and Oracle Cloud.
+- 🛠️ Always excited to learn and implement new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ w: ...
--->
+## What I'm Up To
 
+- 🔭 Currently working on certifications.
+- 🌱 Continuously improving my skills in cloud-native technologies.
+- 👯 Open to collaborating on innovative projects and contributing to open-source.
 
--🌟 Striving to become an inspiring leader and a great software engineer.
+## 2024 Goals
 
--💪 2024 Goals: Getting the hang of backend engineering and mastering DevOps technologies.
+- 🎯 Master backend engineering principles and advanced DevOps practices.
+- 🚀 Contribute to more open-source projects.
+- 📚 Share knowledge through tech talks and writing.
 
--📫 reach out to me: <a href="https://www.linkedin.com/in/salaheddine-zemmouri/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="25"></a>
+## Let's Connect!
 
-
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/salaheddine-zemmouri/)
+- 🌐 Check out my projects below and feel free to contribute or provide feedback.
 
 [![Salah Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=salaheddine-zemmouri&count_private=true&theme=buefy&hide=prs,issues&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+💡 "Striving to become an inspiring leader and a great software engineer, one commit at a time."

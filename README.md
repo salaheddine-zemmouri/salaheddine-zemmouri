@@ -4,7 +4,7 @@ I'm Salah Eddine ZEMMOURI, a Full Stack Cloud Engineer passionate about building
 
 ## About Me
 
-- 🚀 Full Stack Cloud Engineer at Xayone Morocco, specializing in Java, Spring Boot, and cloud technologies.
+- 🚀 Full Stack Cloud Engineer specializing in Java, Spring Boot, and cloud technologies.
 - 🎓 Graduate from ENSIAS, a leading computer science school in Morocco 🇲🇦.
 - 💻 Experienced in backend development, frontend frameworks, and DevOps practices.
 - ☁️ Cloud enthusiast with hands-on experience in GCP, IBM Cloud, and Oracle Cloud.
@@ -16,9 +16,9 @@ I'm Salah Eddine ZEMMOURI, a Full Stack Cloud Engineer passionate about building
 - 🌱 Continuously improving my skills in cloud-native technologies.
 - 👯 Open to collaborating on innovative projects and contributing to open-source.
 
-## 2024 Goals
+## 2026 Goals
 
-- 🎯 Master backend engineering principles and advanced DevOps practices.
+- 🎯 Get certified.
 - 🚀 Contribute to more open-source projects.
 - 📚 Share knowledge through tech talks and writing.
 
